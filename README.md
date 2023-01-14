@@ -6,7 +6,6 @@
 
 <p align="center"> 🧑🏻‍💻 많은 것을 도전하며 성장하는 Backend 개발자 나경률입니다.
 <p align="center"> 어제보다 더 발전한 오늘의 내가 되기 위해 노력하고 있습니다.
-<br>
 <h3 align="center">📚 Tech Stack 📚</h3> <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
